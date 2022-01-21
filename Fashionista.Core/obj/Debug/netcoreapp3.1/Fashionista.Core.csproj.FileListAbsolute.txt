@@ -1,0 +1,12 @@
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\bin\Debug\netcoreapp3.1\Fashionista.Core.deps.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\bin\Debug\netcoreapp3.1\Fashionista.Core.runtimeconfig.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\bin\Debug\netcoreapp3.1\Fashionista.Core.runtimeconfig.dev.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\bin\Debug\netcoreapp3.1\Fashionista.Core.dll
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\bin\Debug\netcoreapp3.1\Fashionista.Core.pdb
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.dll
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.pdb
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Core\obj\Debug\netcoreapp3.1\Fashionista.Core.genruntimeconfig.cache

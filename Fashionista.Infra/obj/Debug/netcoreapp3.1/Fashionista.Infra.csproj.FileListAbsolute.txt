@@ -1,0 +1,16 @@
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Infra.deps.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Infra.runtimeconfig.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Infra.runtimeconfig.dev.json
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Infra.dll
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Infra.pdb
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Core.dll
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\bin\Debug\netcoreapp3.1\Fashionista.Core.pdb
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.csproj.AssemblyReference.cache
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.AssemblyInfoInputs.cache
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.AssemblyInfo.cs
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.csproj.CopyComplete
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.dll
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.pdb
+C:\Users\Otaibah toppsh\source\repos\Fashionista\Fashionista.Infra\obj\Debug\netcoreapp3.1\Fashionista.Infra.genruntimeconfig.cache
